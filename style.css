@@ -1,0 +1,25 @@
+body { 
+  background-color: rgba(129, 119, 119, 0.658);
+  margin: 0;
+}
+
+list { 
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 120px;
+}
+
+.date {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+  
